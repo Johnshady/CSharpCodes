@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\bin\Debug\net6.0\QuizAssignment.exe
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\bin\Debug\net6.0\QuizAssignment.deps.json
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\bin\Debug\net6.0\QuizAssignment.runtimeconfig.json
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\bin\Debug\net6.0\QuizAssignment.dll
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\bin\Debug\net6.0\QuizAssignment.pdb
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\obj\Debug\net6.0\QuizAssignment.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\obj\Debug\net6.0\QuizAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\obj\Debug\net6.0\QuizAssignment.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\obj\Debug\net6.0\QuizAssignment.AssemblyInfo.cs
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\obj\Debug\net6.0\QuizAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\obj\Debug\net6.0\QuizAssignment.dll
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\obj\Debug\net6.0\refint\QuizAssignment.dll
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\obj\Debug\net6.0\QuizAssignment.pdb
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\obj\Debug\net6.0\QuizAssignment.genruntimeconfig.cache
+C:\Users\Student\source\repos\QuizAssignment\QuizAssignment\obj\Debug\net6.0\ref\QuizAssignment.dll

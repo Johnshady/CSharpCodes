@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\obed\obed\bin\Debug\net6.0\obed.exe
+C:\Users\Student\source\repos\obed\obed\bin\Debug\net6.0\obed.deps.json
+C:\Users\Student\source\repos\obed\obed\bin\Debug\net6.0\obed.runtimeconfig.json
+C:\Users\Student\source\repos\obed\obed\bin\Debug\net6.0\obed.dll
+C:\Users\Student\source\repos\obed\obed\bin\Debug\net6.0\obed.pdb
+C:\Users\Student\source\repos\obed\obed\obj\Debug\net6.0\obed.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\obed\obed\obj\Debug\net6.0\obed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\obed\obed\obj\Debug\net6.0\obed.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\obed\obed\obj\Debug\net6.0\obed.AssemblyInfo.cs
+C:\Users\Student\source\repos\obed\obed\obj\Debug\net6.0\obed.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\obed\obed\obj\Debug\net6.0\obed.dll
+C:\Users\Student\source\repos\obed\obed\obj\Debug\net6.0\refint\obed.dll
+C:\Users\Student\source\repos\obed\obed\obj\Debug\net6.0\obed.pdb
+C:\Users\Student\source\repos\obed\obed\obj\Debug\net6.0\obed.genruntimeconfig.cache
+C:\Users\Student\source\repos\obed\obed\obj\Debug\net6.0\ref\obed.dll

@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\bin\Debug\net6.0\Quiz Project Classes.exe
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\bin\Debug\net6.0\Quiz Project Classes.deps.json
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\bin\Debug\net6.0\Quiz Project Classes.runtimeconfig.json
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\bin\Debug\net6.0\Quiz Project Classes.dll
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\bin\Debug\net6.0\Quiz Project Classes.pdb
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\obj\Debug\net6.0\Quiz Project Classes.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\obj\Debug\net6.0\Quiz Project Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\obj\Debug\net6.0\Quiz Project Classes.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\obj\Debug\net6.0\Quiz Project Classes.AssemblyInfo.cs
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\obj\Debug\net6.0\Quiz Project Classes.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\obj\Debug\net6.0\Quiz Project Classes.dll
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\obj\Debug\net6.0\refint\Quiz Project Classes.dll
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\obj\Debug\net6.0\Quiz Project Classes.pdb
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\obj\Debug\net6.0\Quiz Project Classes.genruntimeconfig.cache
+C:\Users\Student\source\repos\Quiz Project Classes\Quiz Project Classes\obj\Debug\net6.0\ref\Quiz Project Classes.dll

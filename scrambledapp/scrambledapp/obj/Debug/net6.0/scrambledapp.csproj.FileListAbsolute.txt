@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\bin\Debug\net6.0\scrambledapp.exe
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\bin\Debug\net6.0\scrambledapp.deps.json
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\bin\Debug\net6.0\scrambledapp.runtimeconfig.json
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\bin\Debug\net6.0\scrambledapp.dll
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\bin\Debug\net6.0\scrambledapp.pdb
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\obj\Debug\net6.0\scrambledapp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\obj\Debug\net6.0\scrambledapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\obj\Debug\net6.0\scrambledapp.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\obj\Debug\net6.0\scrambledapp.AssemblyInfo.cs
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\obj\Debug\net6.0\scrambledapp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\obj\Debug\net6.0\scrambledapp.dll
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\obj\Debug\net6.0\refint\scrambledapp.dll
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\obj\Debug\net6.0\scrambledapp.pdb
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\obj\Debug\net6.0\scrambledapp.genruntimeconfig.cache
+C:\Users\Student\source\repos\scrambledapp\scrambledapp\obj\Debug\net6.0\ref\scrambledapp.dll

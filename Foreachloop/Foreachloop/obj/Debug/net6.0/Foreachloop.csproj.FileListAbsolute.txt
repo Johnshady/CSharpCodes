@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\bin\Debug\net6.0\Foreachloop.exe
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\bin\Debug\net6.0\Foreachloop.deps.json
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\bin\Debug\net6.0\Foreachloop.runtimeconfig.json
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\bin\Debug\net6.0\Foreachloop.dll
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\bin\Debug\net6.0\Foreachloop.pdb
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.AssemblyInfo.cs
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.dll
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\obj\Debug\net6.0\refint\Foreachloop.dll
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.pdb
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\obj\Debug\net6.0\Foreachloop.genruntimeconfig.cache
+C:\Users\Student\source\repos\Foreachloop\Foreachloop\obj\Debug\net6.0\ref\Foreachloop.dll

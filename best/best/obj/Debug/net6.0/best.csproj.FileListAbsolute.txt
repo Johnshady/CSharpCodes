@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\best\best\bin\Debug\net6.0\best.exe
+C:\Users\Student\source\repos\best\best\bin\Debug\net6.0\best.deps.json
+C:\Users\Student\source\repos\best\best\bin\Debug\net6.0\best.runtimeconfig.json
+C:\Users\Student\source\repos\best\best\bin\Debug\net6.0\best.dll
+C:\Users\Student\source\repos\best\best\bin\Debug\net6.0\best.pdb
+C:\Users\Student\source\repos\best\best\obj\Debug\net6.0\best.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\best\best\obj\Debug\net6.0\best.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\best\best\obj\Debug\net6.0\best.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\best\best\obj\Debug\net6.0\best.AssemblyInfo.cs
+C:\Users\Student\source\repos\best\best\obj\Debug\net6.0\best.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\best\best\obj\Debug\net6.0\best.dll
+C:\Users\Student\source\repos\best\best\obj\Debug\net6.0\refint\best.dll
+C:\Users\Student\source\repos\best\best\obj\Debug\net6.0\best.pdb
+C:\Users\Student\source\repos\best\best\obj\Debug\net6.0\best.genruntimeconfig.cache
+C:\Users\Student\source\repos\best\best\obj\Debug\net6.0\ref\best.dll

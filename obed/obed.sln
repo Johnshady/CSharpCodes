@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obed", "obed\obed.csproj", "{7B83F62A-AFA4-4B15-A6F0-E0FB088B6F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B83F62A-AFA4-4B15-A6F0-E0FB088B6F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B83F62A-AFA4-4B15-A6F0-E0FB088B6F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B83F62A-AFA4-4B15-A6F0-E0FB088B6F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B83F62A-AFA4-4B15-A6F0-E0FB088B6F24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9164EDF-4F5C-4DA3-9439-8800D88496FD}
+	EndGlobalSection
+EndGlobal

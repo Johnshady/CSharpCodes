@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\bin\Debug\net6.0\Fieldsandpropertyclasswork.exe
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\bin\Debug\net6.0\Fieldsandpropertyclasswork.deps.json
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\bin\Debug\net6.0\Fieldsandpropertyclasswork.runtimeconfig.json
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\bin\Debug\net6.0\Fieldsandpropertyclasswork.dll
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\bin\Debug\net6.0\Fieldsandpropertyclasswork.pdb
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\obj\Debug\net6.0\Fieldsandpropertyclasswork.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\obj\Debug\net6.0\Fieldsandpropertyclasswork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\obj\Debug\net6.0\Fieldsandpropertyclasswork.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\obj\Debug\net6.0\Fieldsandpropertyclasswork.AssemblyInfo.cs
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\obj\Debug\net6.0\Fieldsandpropertyclasswork.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\obj\Debug\net6.0\Fieldsandpropertyclasswork.dll
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\obj\Debug\net6.0\refint\Fieldsandpropertyclasswork.dll
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\obj\Debug\net6.0\Fieldsandpropertyclasswork.pdb
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\obj\Debug\net6.0\Fieldsandpropertyclasswork.genruntimeconfig.cache
+C:\Users\Student\source\repos\Fieldsandpropertyclasswork\Fieldsandpropertyclasswork\obj\Debug\net6.0\ref\Fieldsandpropertyclasswork.dll

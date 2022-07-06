@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\legit\legit\obj\Debug\net6.0\legit.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\legit\legit\obj\Debug\net6.0\legit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\legit\legit\obj\Debug\net6.0\legit.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\legit\legit\obj\Debug\net6.0\legit.AssemblyInfo.cs
+C:\Users\Student\source\repos\legit\legit\obj\Debug\net6.0\legit.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\legit\legit\bin\Debug\net6.0\legit.exe
+C:\Users\Student\source\repos\legit\legit\bin\Debug\net6.0\legit.deps.json
+C:\Users\Student\source\repos\legit\legit\bin\Debug\net6.0\legit.runtimeconfig.json
+C:\Users\Student\source\repos\legit\legit\bin\Debug\net6.0\legit.dll
+C:\Users\Student\source\repos\legit\legit\bin\Debug\net6.0\legit.pdb
+C:\Users\Student\source\repos\legit\legit\obj\Debug\net6.0\legit.dll
+C:\Users\Student\source\repos\legit\legit\obj\Debug\net6.0\refint\legit.dll
+C:\Users\Student\source\repos\legit\legit\obj\Debug\net6.0\legit.pdb
+C:\Users\Student\source\repos\legit\legit\obj\Debug\net6.0\legit.genruntimeconfig.cache
+C:\Users\Student\source\repos\legit\legit\obj\Debug\net6.0\ref\legit.dll
