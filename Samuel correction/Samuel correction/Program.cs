@@ -67,7 +67,7 @@ namespace scramble
                         if (CheckAnswer(check.answer) == 0 )
                         {
 
-                            Console.WriteLine("try again");
+                            Console.WriteLine("FAILED, try again");
 
                         }
                         else
@@ -99,10 +99,9 @@ namespace scramble
 
 
                         }
-
                         else
                         {
-                        return 0;
+                             return 0;
 
                         }
                    

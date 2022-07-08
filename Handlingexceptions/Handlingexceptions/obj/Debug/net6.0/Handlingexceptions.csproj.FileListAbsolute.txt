@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\bin\Debug\net6.0\Handlingexceptions.exe
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\bin\Debug\net6.0\Handlingexceptions.deps.json
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\bin\Debug\net6.0\Handlingexceptions.runtimeconfig.json
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\bin\Debug\net6.0\Handlingexceptions.dll
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\bin\Debug\net6.0\Handlingexceptions.pdb
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\obj\Debug\net6.0\Handlingexceptions.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\obj\Debug\net6.0\Handlingexceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\obj\Debug\net6.0\Handlingexceptions.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\obj\Debug\net6.0\Handlingexceptions.AssemblyInfo.cs
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\obj\Debug\net6.0\Handlingexceptions.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\obj\Debug\net6.0\Handlingexceptions.dll
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\obj\Debug\net6.0\refint\Handlingexceptions.dll
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\obj\Debug\net6.0\Handlingexceptions.pdb
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\obj\Debug\net6.0\Handlingexceptions.genruntimeconfig.cache
+C:\Users\Student\source\repos\Handlingexceptions\Handlingexceptions\obj\Debug\net6.0\ref\Handlingexceptions.dll
