@@ -65,7 +65,7 @@ namespace BankApp
             if (Balance < 500)
             {
                 return false;
-            }
+            } 
             else
             {
                 return true;

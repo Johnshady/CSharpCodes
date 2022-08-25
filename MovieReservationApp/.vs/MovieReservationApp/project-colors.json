@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d089486d-ab7c-4b73-b963-79a0f6d7548c": {
+      "ProjectGuid": "d089486d-ab7c-4b73-b963-79a0f6d7548c",
+      "DisplayName": "MovieReservationApp",
+      "ColorIndex": 0
+    },
+    "706b3381-30af-4276-8667-baddb86ea2bf": {
+      "ProjectGuid": "706b3381-30af-4276-8667-baddb86ea2bf",
+      "DisplayName": "MovieReservationApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\bin\Debug\net6.0\AirlineReservationApp2.exe
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\bin\Debug\net6.0\AirlineReservationApp2.deps.json
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\bin\Debug\net6.0\AirlineReservationApp2.runtimeconfig.json
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\bin\Debug\net6.0\AirlineReservationApp2.dll
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\bin\Debug\net6.0\ref\AirlineReservationApp2.dll
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\bin\Debug\net6.0\AirlineReservationApp2.pdb
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\obj\Debug\net6.0\AirlineReservationApp2.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\obj\Debug\net6.0\AirlineReservationApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\obj\Debug\net6.0\AirlineReservationApp2.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\obj\Debug\net6.0\AirlineReservationApp2.AssemblyInfo.cs
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\obj\Debug\net6.0\AirlineReservationApp2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\obj\Debug\net6.0\AirlineReservationApp2.dll
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\obj\Debug\net6.0\ref\AirlineReservationApp2.dll
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\obj\Debug\net6.0\AirlineReservationApp2.pdb
+C:\Users\Student\source\repos\AirlineReservationApp2\AirlineReservationApp2\obj\Debug\net6.0\AirlineReservationApp2.genruntimeconfig.cache

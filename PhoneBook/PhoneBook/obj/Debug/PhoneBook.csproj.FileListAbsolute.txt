@@ -1,0 +1,3 @@
+C:\Users\Student\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache

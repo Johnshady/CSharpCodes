@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AirlineReservationApp2/1.0.0": {
+        "runtime": {
+          "AirlineReservationApp2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AirlineReservationApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

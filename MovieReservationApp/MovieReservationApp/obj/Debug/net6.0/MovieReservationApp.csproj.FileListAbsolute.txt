@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\bin\Debug\net6.0\MovieReservationApp.exe
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\bin\Debug\net6.0\MovieReservationApp.deps.json
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\bin\Debug\net6.0\MovieReservationApp.runtimeconfig.json
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\bin\Debug\net6.0\MovieReservationApp.dll
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\bin\Debug\net6.0\MovieReservationApp.pdb
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\obj\Debug\net6.0\MovieReservationApp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\obj\Debug\net6.0\MovieReservationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\obj\Debug\net6.0\MovieReservationApp.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\obj\Debug\net6.0\MovieReservationApp.AssemblyInfo.cs
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\obj\Debug\net6.0\MovieReservationApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\obj\Debug\net6.0\MovieReservationApp.dll
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\obj\Debug\net6.0\refint\MovieReservationApp.dll
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\obj\Debug\net6.0\MovieReservationApp.pdb
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\obj\Debug\net6.0\MovieReservationApp.genruntimeconfig.cache
+C:\Users\Student\source\repos\MovieReservationApp\MovieReservationApp\obj\Debug\net6.0\ref\MovieReservationApp.dll
